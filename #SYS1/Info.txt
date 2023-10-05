@@ -1,6 +1,6 @@
 1. What is system design and why is it important?
-    1. https://www.linkedin.com/pulse/why-system-design-important-pratap-sharma/
+    1. https://www.linkedin.com/pulse/why-system-design-important-pratap-sharma
     2. https://www.educative.io/blog/why-learn-system-design
-    3. https://www.geeksforgeeks.org/why-is-it-important-to-learn-system-design/
+    3. https://www.geeksforgeeks.org/why-is-it-important-to-learn-system-design
 
     
